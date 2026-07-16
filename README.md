@@ -177,11 +177,11 @@ and click **Analyze**.
 
 ## 🖼️ Screenshots
 
-> _Add your own screenshots here after running the app locally._
+
 
 | Landing Page | Results Page |
 |---|---|
-| ![](Screenshot 2026-07-16 180439.png) | ![](Screenshot 2026-07-16 180148.png) |
+| ![Landing_page](screenshots/landing_page.png) | ![result_page](screenshots/result_page.png) |
 
 ---
 
