@@ -181,7 +181,7 @@ and click **Analyze**.
 
 | Landing Page | Results Page |
 |---|---|
-| `screenshots/landing.png` | `screenshots/results.png` |
+| `screenshots/Screenshot 2026-07-16 180439.png` | `screenshots/Screenshot 2026-07-16 180148.png` |
 
 ---
 
